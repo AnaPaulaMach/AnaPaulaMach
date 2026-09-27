@@ -2,7 +2,7 @@
 
 Developer based in Argentina, working on applied AI and currently finishing a degree in Information Systems.
 
-I work mainly on AI applications, RAG systems, automation and LLM-based workflows, with an interest in how these systems behave, scale and fail in real-world environments.
+I work mainly on AI applications, RAG systems, automation and LLM-based workflows.
 
 ## What I'm working on / exploring
 
