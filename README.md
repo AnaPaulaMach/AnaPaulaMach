@@ -39,6 +39,3 @@ Spanish — Native
 English  
 Portuguese
 
-## Elsewhere
-
-www.linkedin.com/in/ana-paula-machado-29a26b1a5
