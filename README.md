@@ -1,4 +1,4 @@
-# Hi, I'm Ana Paula 👋
+# Hi, I'm Ana Paula 
 
 Developer based in Argentina, working on applied AI and currently finishing a degree in Information Systems.
 
