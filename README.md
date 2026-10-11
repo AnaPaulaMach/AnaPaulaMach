@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 480px)" srcset="assets/profile-header-mobile.svg" />
-  <img alt="Ana Paula Machado — Software and AI Developer. Information Systems Analyst, Argentina." src="assets/profile-header.svg" width="100%" height="132" />
+  <source media="(max-width: 480px)" srcset="https://raw.githubusercontent.com/AnaPaulaMach/AnaPaulaMach/18ec0cb33a6e4f4e66e71d52b34c8425a50cafae/assets/profile-header-mobile.svg" />
+  <img alt="Ana Paula Machado — Software and AI Developer. Information Systems Analyst, Argentina." src="https://raw.githubusercontent.com/AnaPaulaMach/AnaPaulaMach/18ec0cb33a6e4f4e66e71d52b34c8425a50cafae/assets/profile-header.svg" width="100%" height="132" />
 </picture>
 
 I develop software and AI solutions with **Python, Django and large language models**, with a focus on backend applications. My work includes RAG systems, chatbots and backend components.
