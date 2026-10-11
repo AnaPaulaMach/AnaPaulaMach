@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="180" viewBox="0 0 360 180" role="img" aria-labelledby="title description">
+  <title id="title">Ana Paula Machado</title>
+  <desc id="description">Software and AI Developer. Information Systems Analyst. Argentina.</desc>
+  <style>
+    :root{--panel:#ffffff;--ink:#24292f;--muted:#57606a;--brand:#087f8c}
+    .panel{fill:var(--panel);stroke:var(--brand);stroke-width:1.5}
+    .name{fill:var(--ink);font:600 24px 'Segoe UI',Arial,sans-serif}
+    .role{fill:var(--brand);font:500 18px Consolas,'Liberation Mono',monospace}
+    .meta{fill:var(--muted);font:400 16px 'Segoe UI',Arial,sans-serif}
+    .static-role{display:none}
+    @media(prefers-color-scheme:dark){:root{--panel:#0d1117;--ink:#e6edf3;--muted:#a1acb8;--brand:#67e8f9}}
+    @media(prefers-reduced-motion:reduce){.motion-role{display:none}.static-role{display:inline}}
+  </style>
+  <defs>
+    <clipPath id="reveal"><rect x="20" y="70" width="280" height="30"><animate attributeName="width" values="0;280;280;0" keyTimes="0;0.42;0.9;1" dur="8s" repeatCount="indefinite" begin="0s"/></rect></clipPath>
+  </defs>
+  <rect class="panel" x="1" y="1" width="358" height="178" rx="14"/>
+  <text class="name" x="20" y="50">Ana Paula Machado</text>
+  <g class="motion-role" clip-path="url(#reveal)"><text class="role" x="20" y="91">Software &amp; AI Developer</text></g>
+  <text class="role static-role" x="20" y="91">Software &amp; AI Developer</text>
+  <text class="meta" x="20" y="132">Information Systems Analyst</text>
+  <text class="meta" x="20" y="153">Argentina</text>
+</svg>
