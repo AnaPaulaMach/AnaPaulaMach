@@ -1,41 +1,37 @@
-# Hi, I'm Ana Paula 
+<picture>
+  <source media="(max-width: 480px)" srcset="assets/profile-header-mobile.svg" />
+  <img alt="Ana Paula Machado — Software and AI Developer. Information Systems Analyst, Argentina." src="assets/profile-header.svg" width="660" />
+</picture>
 
-Developer based in Argentina, working on applied AI and currently finishing a degree in Information Systems.
+I develop software and AI solutions with **Python, Django and large language models**, with a focus on backend applications. My work includes RAG systems, chatbots and backend components.
 
-I work mainly on AI applications, RAG systems, automation and LLM-based workflows.
+I'm an Information Systems Analyst, currently completing my bachelor's degree in Information Systems at UNSE. My thesis explores **explainable product recommendations through computational argumentation**.
 
-## What I'm working on / exploring
+[LinkedIn](https://www.linkedin.com/in/ana-paula-machado-29a26b1a5/) · [X](https://x.com/Anapaulamach_) · [Thesis demo](https://extraccion-argumentos-production.up.railway.app/)
 
-- Agentic software development and AI-assisted engineering workflows
-- Retrieval-Augmented Generation (RAG) over document collections
-- LLM evaluation and monitoring: latency, response quality and model comparison
-- Open-source LLMs for Spanish, including quantization and inference trade-offs
-- CI/CD and automation with GitHub Actions
-- Security in AI and software projects: secrets, permissions, access control and safe defaults
-- Human–AI interaction: conversational design, trust and expectation setting
-- Computational argumentation and explainable recommendation systems
+## Selected work
 
-## Thesis
+### Explainable product recommendations — thesis
 
-I'm building a product recommendation system based on the **Labeled Argumentation Framework (LAF)**.
+A recommendation system based on the Labeled Argumentation Framework (LAF). It analyzes product reviews and unstructured text to identify arguments, conflicts and evidence for more explainable recommendations.
 
-The project analyzes product reviews and unstructured text to identify arguments, conflicting information and evidence that can support more explainable recommendations.
+[Explore the demo](https://extraccion-argumentos-production.up.railway.app/)
 
-👉 [Live demo](https://extraccion-argumentos-production.up.railway.app/)
 
-## Tech
+## Stack
 
-Python · PostgreSQL · Supabase · GitHub Actions · Linux  
-Hugging Face · Open-source LLMs · RAG · n8n  
-Claude Code · Codex
+**Backend:** Python · Django · SQL · PostgreSQL · REST APIs  
+**AI:** RAG · LLMs · Embeddings · Vector search · Hugging Face · LLM evaluation  
+**Workflow:** Git · GitHub Actions · Linux · n8n
 
-## Exploring
+## Current focus
 
-AI security · Agent security · Cloud-native AI infrastructure · Edge AI
+- Backend development for AI applications
+- Retrieval and evaluation for document-based RAG systems
+- Explainable recommendations and computational argumentation
 
 ## Languages
 
-Spanish — Native  
-English  
-Portuguese
+Spanish — Native · English — B2 · Portuguese — B2
+
 
