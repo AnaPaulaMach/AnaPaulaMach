@@ -1,7 +1,6 @@
 <picture>
   <source media="(max-width: 480px)" srcset="assets/profile-header-mobile.svg" />
-  <img alt="Ana Paula Machado — Software and AI Developer. Information Systems Analyst, Argentina." src="assets/profile-header.svg" width="660" />
-</picture>
+  <img alt="Ana Paula Machado — Software and AI Developer. Information Systems Analyst, Argentina." src="assets/profile-header.svg" width="100%" /></picture>
 
 I develop software and AI solutions with **Python, Django and large language models**, with a focus on backend applications. My work includes RAG systems, chatbots and backend components.
 
