@@ -1,6 +1,7 @@
 <picture>
   <source media="(max-width: 480px)" srcset="assets/profile-header-mobile.svg" />
-  <img alt="Ana Paula Machado — Software and AI Developer. Information Systems Analyst, Argentina." src="assets/profile-header.svg" width="100%" /></picture>
+  <img alt="Ana Paula Machado — Software and AI Developer. Information Systems Analyst, Argentina." src="assets/profile-header.svg" width="100%" height="132" />
+</picture>
 
 I develop software and AI solutions with **Python, Django and large language models**, with a focus on backend applications. My work includes RAG systems, chatbots and backend components.
 
@@ -15,7 +16,6 @@ I'm an Information Systems Analyst, currently completing my bachelor's degree in
 A recommendation system based on the Labeled Argumentation Framework (LAF). It analyzes product reviews and unstructured text to identify arguments, conflicts and evidence for more explainable recommendations.
 
 [Explore the demo](https://extraccion-argumentos-production.up.railway.app/)
-
 
 ## Stack
 
