@@ -9,7 +9,7 @@ I'm an Information Systems Analyst, currently completing my bachelor's degree in
 
 [LinkedIn](https://www.linkedin.com/in/ana-paula-machado-29a26b1a5/) · [X](https://x.com/Anapaulamach_) · [Thesis demo](https://extraccion-argumentos-production.up.railway.app/)
 
-## Selected work
+<h3><img alt="Selected work" src="assets/section-selected-work-glow-v1.svg" width="100%" height="40" /></h3>
 
 ### Explainable product recommendations — thesis
 
@@ -17,20 +17,19 @@ A recommendation system based on the Labeled Argumentation Framework (LAF). It a
 
 [Explore the demo](https://extraccion-argumentos-production.up.railway.app/)
 
-## Stack
+<h3><img alt="Stack" src="assets/section-stack-glow-v1.svg" width="100%" height="40" /></h3>
 
 **Backend:** Python · Django · SQL · PostgreSQL · REST APIs  
 **AI:** RAG · LLMs · Embeddings · Vector search · Hugging Face · LLM evaluation  
 **Workflow:** Git · GitHub Actions · Linux · n8n
 
-## Current focus
+<h3><img alt="Current focus" src="assets/section-current-focus-glow-v1.svg" width="100%" height="40" /></h3>
 
 - Backend development for AI applications
 - Retrieval and evaluation for document-based RAG systems
 - Explainable recommendations and computational argumentation
 
-## Languages
+<h3><img alt="Languages" src="assets/section-languages-glow-v1.svg" width="100%" height="40" /></h3>
 
 Spanish — Native · English — B2 · Portuguese — B2
-
 
