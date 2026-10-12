@@ -3,6 +3,7 @@
   <img alt="Ana Paula Machado — Software and AI Developer. Information Systems Analyst, Argentina." src="https://raw.githubusercontent.com/AnaPaulaMach/AnaPaulaMach/18ec0cb33a6e4f4e66e71d52b34c8425a50cafae/assets/profile-header.svg" width="100%" height="132" />
 </picture>
 
+
 I develop software and AI solutions with **Python, Django and large language models**, with a focus on backend applications. My work includes RAG systems, chatbots and backend components.
 
 I'm an Information Systems Analyst, currently completing my bachelor's degree in Information Systems at UNSE. My thesis explores **explainable product recommendations through computational argumentation**.
